@@ -31,7 +31,6 @@ Redistribution and use in source and binary forms, with or without modification,
       * gambling
       * tobacco
       * adversely addictive behaviours
-      * nuclear energy
       * warfare
       * weapons manufacturing
       * war crimes
@@ -44,7 +43,7 @@ Redistribution and use in source and binary forms, with or without modification,
       * peace
       * access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child
       * peaceful assembly and association (including worker associations)
-      * a safe environment or action to curtail the use of fossil fuels or prevent climate change
+      * a safe environment
       * democratic processes
 
 5. All redistribution of source code or binary form, including any modifications must be under these terms. You must inform recipients that the code is governed by these conditions, and how they can obtain a copy of this license. You may not attempt to alter the conditions of who may/may not use this software.
